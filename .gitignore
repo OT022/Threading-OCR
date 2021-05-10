@@ -1,0 +1,6 @@
+/src
+/_output
+/test/__pycache__
+/_test/_output
+/_test/src/redact-test-doc
+__pycache__/
